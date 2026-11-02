@@ -1,0 +1,460 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Cartoon short production contract",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "id",
+    "title",
+    "subject",
+    "storyMode",
+    "fps",
+    "width",
+    "height",
+    "durationInFrames",
+    "entry",
+    "outputMode",
+    "captions",
+    "language",
+    "audio",
+    "mix",
+    "shots",
+    "events",
+    "review"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1,
+      "type": "integer"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Za-z][A-Za-z0-9_-]*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subject": {
+      "type": "string",
+      "minLength": 1
+    },
+    "storyMode": {
+      "enum": [
+        "event",
+        "biography",
+        "explanation"
+      ]
+    },
+    "fps": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 240
+    },
+    "width": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "height": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "durationInFrames": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "entry": {
+      "type": "string",
+      "minLength": 1
+    },
+    "outputMode": {
+      "enum": [
+        "preview",
+        "export"
+      ]
+    },
+    "captions": {
+      "type": "boolean"
+    },
+    "language": {
+      "type": "string",
+      "minLength": 1
+    },
+    "script": {
+      "type": "object",
+      "required": [
+        "path"
+      ],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{64}$"
+        }
+      }
+    },
+    "audio": {
+      "type": "object",
+      "properties": {
+        "voice": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "required": [
+                "path",
+                "sha256",
+                "durationSeconds"
+              ],
+              "properties": {
+                "path": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "sha256": {
+                  "type": "string",
+                  "pattern": "^[a-f0-9]{64}$"
+                },
+                "durationSeconds": {
+                  "type": "number",
+                  "exclusiveMinimum": 0
+                }
+              },
+              "additionalProperties": false
+            }
+          ]
+        },
+        "music": {
+          "oneOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "required": [
+                "path",
+                "sha256"
+              ],
+              "properties": {
+                "path": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "gainDb": {
+                  "type": "number",
+                  "minimum": -80,
+                  "maximum": 24
+                },
+                "sha256": {
+                  "type": "string",
+                  "pattern": "^[a-f0-9]{64}$"
+                },
+                "durationSeconds": {
+                  "type": "number",
+                  "exclusiveMinimum": 0
+                }
+              },
+              "additionalProperties": false
+            }
+          ]
+        },
+        "assets": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": false
+    },
+    "mix": {
+      "type": "object",
+      "required": [
+        "sfxGainDb",
+        "musicGainDb"
+      ],
+      "properties": {
+        "sfxGainDb": {
+          "type": "number",
+          "minimum": -80,
+          "maximum": 24
+        },
+        "musicGainDb": {
+          "type": "number",
+          "minimum": -80,
+          "maximum": 24
+        },
+        "ducking": {
+          "type": "object",
+          "properties": {
+            "music": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 0.95
+            },
+            "foley": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 0.95
+            },
+            "accents": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 0.95
+            },
+            "reactions": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 0.95
+            },
+            "ambience": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 0.95
+            }
+          },
+          "additionalProperties": false
+        },
+        "endFadeSeconds": {
+          "type": "number",
+          "minimum": 0
+        },
+        "samplePeakCeilingDbfs": {
+          "type": "number",
+          "minimum": -12,
+          "maximum": -0.01
+        }
+      },
+      "additionalProperties": false
+    },
+    "style": {
+      "type": "object"
+    },
+    "shots": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "start",
+          "end"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "start": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "end": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "camera": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "number"
+            }
+          },
+          "cameraEnd": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "number"
+            }
+          },
+          "look": {
+            "type": "array",
+            "minItems": 3,
+            "maxItems": 3,
+            "items": {
+              "type": "number"
+            }
+          }
+        }
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "shot",
+          "frame",
+          "type"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "shot": {
+            "type": "string",
+            "minLength": 1
+          },
+          "frame": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "type": {
+            "enum": [
+              "contact",
+              "reaction",
+              "release",
+              "movement",
+              "transform",
+              "camera",
+              "accent",
+              "ambience",
+              "blink"
+            ]
+          },
+          "visual": {
+            "type": "string",
+            "minLength": 1
+          },
+          "silenceReason": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sound": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "type": "object",
+                "required": [
+                  "asset",
+                  "bus"
+                ],
+                "properties": {
+                  "asset": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "bus": {
+                    "enum": [
+                      "foley",
+                      "accents",
+                      "reactions",
+                      "ambience"
+                    ]
+                  },
+                  "gainDb": {
+                    "type": "number",
+                    "minimum": -80,
+                    "maximum": 24
+                  },
+                  "pan": {
+                    "type": "number",
+                    "minimum": -1,
+                    "maximum": 1
+                  },
+                  "peakFrame": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "variant": {
+                    "type": "integer",
+                    "minimum": 0
+                  },
+                  "durationSeconds": {
+                    "type": "number",
+                    "exclusiveMinimum": 0,
+                    "minimum": 0.001
+                  },
+                  "alignment": {
+                    "enum": [
+                      "onset",
+                      "peak"
+                    ]
+                  },
+                  "rate": {
+                    "type": "number",
+                    "minimum": 0.5,
+                    "maximum": 2
+                  }
+                },
+                "additionalProperties": false
+              }
+            ]
+          }
+        }
+      }
+    },
+    "review": {
+      "type": "object",
+      "required": [
+        "technical",
+        "visual",
+        "audio"
+      ],
+      "properties": {
+        "technical": {
+          "enum": [
+            "pending",
+            "passed",
+            "failed",
+            "unavailable"
+          ]
+        },
+        "visual": {
+          "enum": [
+            "pending",
+            "passed",
+            "failed",
+            "unavailable"
+          ]
+        },
+        "audio": {
+          "enum": [
+            "pending",
+            "passed",
+            "failed",
+            "unavailable"
+          ]
+        }
+      }
+    },
+    "revisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "request",
+          "status"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "request": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  }
+}

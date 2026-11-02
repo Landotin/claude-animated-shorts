@@ -1,0 +1,38 @@
+[
+  {
+    "file": "vocals/sobbing-breathing-jmr.mp3",
+    "title": "Sobbing+Breathing.mp3",
+    "creator": "jmr_online",
+    "source_url": "https://freesound.org/people/jmr_online/sounds/196156/",
+    "download_url": "https://cdn.freesound.org/previews/196/196156_3634988-hq.mp3",
+    "license": "CC0-1.0",
+    "sha256": "5cf290347072619e2da20f74b79d94f91eb929b1c7910579ed4b97bf4dc73015"
+  },
+  {
+    "file": "cartoon-blink-firecamel.mp3",
+    "title": "Cartoon Blink",
+    "creator": "firecamel",
+    "source_url": "https://freesound.org/people/firecamel/sounds/169349/",
+    "download_url": "https://cdn.freesound.org/previews/169/169349_1938732-hq.mp3",
+    "license": "CC0-1.0",
+    "sha256": "b58ca40fd0f4127b69492d86599418a9baa04a85cb17b2cd98dced7c1d3bf068"
+  },
+  {
+    "file": "vocals/angry-grunts-lipalearning.mp3",
+    "title": "male grunt.wav",
+    "creator": "lipalearning",
+    "source_url": "https://freesound.org/people/lipalearning/sounds/427972/",
+    "download_url": "https://cdn.freesound.org/previews/427/427972_4687265-hq.mp3",
+    "license": "CC0-1.0",
+    "sha256": "3f28bec0748a0c9b25f7d517b1b14c0d1601244e8908627b794960e9e75c30e0"
+  },
+  {
+    "file": "drink-gulp-zac.mp3",
+    "title": "Drink gulp.wav",
+    "creator": "ZacMakesLOUDNoises",
+    "source_url": "https://freesound.org/people/ZacMakesLOUDNoises/sounds/187951/",
+    "download_url": "https://cdn.freesound.org/previews/187/187951_2656785-hq.mp3",
+    "license": "CC0-1.0",
+    "sha256": "a3395ae51b12082a7fd42883b2d877e9734fe47b9a5c7df3b3fb6b5de597934e"
+  }
+]

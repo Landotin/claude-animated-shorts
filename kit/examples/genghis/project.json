@@ -1,0 +1,2169 @@
+{
+  "schemaVersion": 1,
+  "id": "GenghisKhanLife",
+  "title": "Genghis Khan — From Exile to Empire",
+  "subject": "Genghis Khan",
+  "storyMode": "biography",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "durationInFrames": 3499,
+  "entry": "src/index.ts",
+  "outputMode": "preview",
+  "captions": false,
+  "language": "en",
+  "script": {
+    "path": "SCRIPT.md"
+  },
+  "audio": {
+    "voice": null,
+    "music": null,
+    "assets": "../../../assets/sfx/catalog.json"
+  },
+  "mix": {
+    "sfxGainDb": -6,
+    "musicGainDb": 3
+  },
+  "style": {
+    "preset": "painted-3d-bean-cards",
+    "blinkSounds": "principal-only",
+    "quietEndingFrame": 2735
+  },
+  "shots": [
+    {
+      "key": "abandoned",
+      "name": "01 · A child left behind",
+      "sec": 0,
+      "place": "winter",
+      "light": "winter",
+      "camera": [
+        2.5,
+        1.75,
+        5.8
+      ],
+      "look": [
+        0,
+        1.1,
+        0
+      ],
+      "end": 181,
+      "dof": 11,
+      "id": "abandoned",
+      "start": 0,
+      "cameraEnd": [
+        0.9,
+        1.5,
+        4.6
+      ]
+    },
+    {
+      "key": "poison",
+      "name": "02 · Father drinks and collapses",
+      "sec": 6.02,
+      "place": "camp",
+      "light": "winter",
+      "camera": [
+        1.1,
+        2.1,
+        4.8
+      ],
+      "look": [
+        -0.15,
+        1.45,
+        0
+      ],
+      "end": 221,
+      "dof": 10,
+      "id": "poison",
+      "start": 181,
+      "cameraEnd": [
+        0.8,
+        2,
+        4.6
+      ]
+    },
+    {
+      "key": "robbed",
+      "name": "03 · Raiders take the family belongings",
+      "sec": 7.35,
+      "place": "camp",
+      "light": "winter",
+      "camera": [
+        1.2,
+        2.1,
+        7.5
+      ],
+      "look": [
+        0.3,
+        1.2,
+        0
+      ],
+      "end": 273,
+      "id": "robbed",
+      "start": 221,
+      "cameraEnd": [
+        1.5,
+        2,
+        7
+      ]
+    },
+    {
+      "key": "rats",
+      "name": "04a · Hunting rats",
+      "sec": 9.1,
+      "place": "winter",
+      "light": "winter",
+      "camera": [
+        0.6,
+        1.4,
+        6
+      ],
+      "look": [
+        0.15,
+        0.75,
+        0
+      ],
+      "end": 322,
+      "dof": 7,
+      "id": "rats",
+      "start": 273,
+      "cameraEnd": [
+        0.4,
+        1.3,
+        5.7
+      ]
+    },
+    {
+      "key": "roots",
+      "name": "04b · Pulling roots from frozen earth",
+      "sec": 10.72,
+      "place": "winter",
+      "light": "winter",
+      "camera": [
+        1.2,
+        1.5,
+        4.8
+      ],
+      "look": [
+        0,
+        0.7,
+        0.2
+      ],
+      "end": 403,
+      "dof": 11,
+      "id": "roots",
+      "start": 322,
+      "cameraEnd": [
+        0.8,
+        1.4,
+        4.4
+      ]
+    },
+    {
+      "key": "raiders",
+      "name": "05 · Riders on the ridge",
+      "sec": 13.42,
+      "place": "steppe",
+      "light": "day",
+      "camera": [
+        5,
+        3.4,
+        12
+      ],
+      "look": [
+        0,
+        1.5,
+        0
+      ],
+      "id": "raiders",
+      "start": 403,
+      "end": 457
+    },
+    {
+      "key": "cage",
+      "name": "06 · The guard slams the collar shut",
+      "sec": 15.22,
+      "place": "camp",
+      "light": "golden",
+      "camera": [
+        1.5,
+        2.2,
+        6.8
+      ],
+      "look": [
+        0.1,
+        1.4,
+        0
+      ],
+      "end": 583,
+      "dof": 8,
+      "id": "cage",
+      "start": 457,
+      "cameraEnd": [
+        1.1,
+        2.1,
+        6.4
+      ]
+    },
+    {
+      "key": "escape",
+      "name": "07 · The guard is struck",
+      "sec": 19.42,
+      "place": "camp",
+      "light": "night",
+      "camera": [
+        1.6,
+        2.2,
+        7.3
+      ],
+      "look": [
+        0.15,
+        1.45,
+        0
+      ],
+      "end": 665,
+      "roll": -0.04,
+      "id": "escape",
+      "start": 583,
+      "cameraEnd": [
+        1.1,
+        2.1,
+        6.9
+      ]
+    },
+    {
+      "key": "dive",
+      "name": "08 · Into the icy river",
+      "sec": 22.15,
+      "place": "river",
+      "light": "night",
+      "camera": [
+        4,
+        3.6,
+        9
+      ],
+      "look": [
+        0,
+        0.7,
+        0
+      ],
+      "end": 719,
+      "id": "dive",
+      "start": 665,
+      "cameraEnd": [
+        2.0,
+        2.8,
+        7.0
+      ]
+    },
+    {
+      "key": "reeds",
+      "name": "09 · Hidden beneath the reeds",
+      "sec": 23.95,
+      "place": "river",
+      "light": "night",
+      "camera": [
+        1.8,
+        1.05,
+        5
+      ],
+      "look": [
+        0,
+        0.42,
+        0
+      ],
+      "end": 818,
+      "dof": 14,
+      "id": "reeds",
+      "start": 719,
+      "cameraEnd": [
+        0.7,
+        0.8,
+        4.2
+      ]
+    },
+    {
+      "key": "temujin",
+      "name": "10 · Temujin",
+      "sec": 27.25,
+      "place": "river",
+      "light": "day",
+      "camera": [
+        1,
+        2.2,
+        6
+      ],
+      "look": [
+        0,
+        1.6,
+        0
+      ],
+      "end": 894,
+      "dof": 13,
+      "id": "temujin",
+      "start": 818,
+      "cameraEnd": [
+        0.5,
+        2.1,
+        5.0
+      ]
+    },
+    {
+      "key": "khan",
+      "name": "11 · Genghis Khan",
+      "sec": 29.8,
+      "place": "steppe",
+      "light": "golden",
+      "camera": [
+        2.5,
+        2.1,
+        7.3
+      ],
+      "look": [
+        0,
+        1.6,
+        0
+      ],
+      "end": 988,
+      "dof": 12,
+      "id": "khan",
+      "start": 894,
+      "cameraEnd": [
+        1.0,
+        2.0,
+        6.0
+      ]
+    },
+    {
+      "key": "outcasts",
+      "name": "12 · An army of outsiders",
+      "sec": 32.94,
+      "place": "camp",
+      "light": "day",
+      "camera": [
+        5,
+        4.1,
+        13
+      ],
+      "look": [
+        0,
+        1.4,
+        0
+      ],
+      "end": 1105,
+      "id": "outcasts",
+      "start": 988,
+      "cameraEnd": [
+        3.5,
+        3.3,
+        10.0
+      ]
+    },
+    {
+      "key": "kidnap",
+      "name": "13 · The Merkit raid",
+      "sec": 36.84,
+      "place": "camp",
+      "light": "golden",
+      "camera": [
+        4.2,
+        2.9,
+        10
+      ],
+      "look": [
+        0,
+        1.5,
+        0
+      ],
+      "roll": 0.04,
+      "id": "kidnap",
+      "start": 1105,
+      "end": 1193
+    },
+    {
+      "key": "mistake",
+      "name": "14 · Big mistake",
+      "sec": 39.77,
+      "place": "camp",
+      "light": "golden",
+      "camera": [
+        0.4,
+        2,
+        4.8
+      ],
+      "look": [
+        0,
+        1.9,
+        0
+      ],
+      "dof": 15,
+      "roll": -0.055,
+      "id": "mistake",
+      "start": 1193,
+      "end": 1243
+    },
+    {
+      "key": "charge",
+      "name": "15 · Forty thousand horsemen",
+      "sec": 41.43,
+      "place": "steppe",
+      "light": "day",
+      "camera": [
+        6,
+        4.5,
+        17
+      ],
+      "look": [
+        0,
+        1.7,
+        0
+      ],
+      "end": 1356,
+      "id": "charge",
+      "start": 1243,
+      "cameraEnd": [
+        3.0,
+        3.1,
+        13.0
+      ]
+    },
+    {
+      "key": "united",
+      "name": "16 · The united steppes",
+      "sec": 45.2,
+      "place": "steppe",
+      "light": "day",
+      "camera": [
+        12,
+        10,
+        24
+      ],
+      "look": [
+        0,
+        1,
+        0
+      ],
+      "end": 1441,
+      "id": "united",
+      "start": 1356,
+      "cameraEnd": [
+        9.0,
+        8.0,
+        22.0
+      ]
+    },
+    {
+      "key": "rules",
+      "name": "17 · A new order",
+      "sec": 48.02,
+      "place": "camp",
+      "light": "day",
+      "camera": [
+        4.3,
+        3.4,
+        10
+      ],
+      "look": [
+        0,
+        1.3,
+        0
+      ],
+      "end": 1561,
+      "dof": 6,
+      "id": "rules",
+      "start": 1441,
+      "cameraEnd": [
+        2.5,
+        2.9,
+        8.0
+      ]
+    },
+    {
+      "key": "beggar",
+      "name": "18a · The beggar wins the fight",
+      "sec": 52.02,
+      "place": "camp",
+      "light": "day",
+      "camera": [
+        2.4,
+        2.7,
+        10.5
+      ],
+      "look": [
+        0,
+        1.3,
+        0
+      ],
+      "end": 1616,
+      "dof": 4,
+      "id": "beggar",
+      "start": 1561,
+      "cameraEnd": [
+        1.7,
+        2.5,
+        9.8
+      ]
+    },
+    {
+      "key": "general",
+      "name": "18b · Khan rewards his courage",
+      "sec": 53.86,
+      "place": "camp",
+      "light": "day",
+      "camera": [
+        1.5,
+        2.6,
+        7.5
+      ],
+      "look": [
+        -0.6,
+        1.5,
+        0
+      ],
+      "end": 1652,
+      "dof": 9,
+      "id": "general",
+      "start": 1616,
+      "cameraEnd": [
+        1.2,
+        2.4,
+        7
+      ]
+    },
+    {
+      "key": "china",
+      "name": "19 · Northern China",
+      "sec": 55.06,
+      "place": "china",
+      "light": "day",
+      "camera": [
+        16,
+        12,
+        30
+      ],
+      "look": [
+        0,
+        4,
+        -6
+      ],
+      "end": 1723,
+      "id": "china",
+      "start": 1652,
+      "cameraEnd": [
+        11.0,
+        10.0,
+        25.0
+      ]
+    },
+    {
+      "key": "walls",
+      "name": "20 · The walls and the nomads",
+      "sec": 57.42,
+      "place": "china",
+      "light": "day",
+      "camera": [
+        4,
+        3,
+        13
+      ],
+      "look": [
+        0,
+        4.5,
+        -4
+      ],
+      "end": 1840,
+      "id": "walls",
+      "start": 1723,
+      "cameraEnd": [
+        3.0,
+        3.4,
+        12.0
+      ]
+    },
+    {
+      "key": "siege",
+      "name": "21 · The sealed gates",
+      "sec": 61.33,
+      "place": "china",
+      "light": "golden",
+      "camera": [
+        8,
+        7,
+        21
+      ],
+      "look": [
+        0,
+        3.2,
+        -5
+      ],
+      "end": 1901,
+      "id": "siege",
+      "start": 1840,
+      "cameraEnd": [
+        6.0,
+        6.0,
+        19.0
+      ]
+    },
+    {
+      "key": "engineers",
+      "name": "22 · The engineers",
+      "sec": 63.38,
+      "place": "china",
+      "light": "day",
+      "camera": [
+        4.3,
+        3,
+        10
+      ],
+      "look": [
+        0,
+        1.6,
+        0
+      ],
+      "dof": 10,
+      "id": "engineers",
+      "start": 1901,
+      "end": 1949
+    },
+    {
+      "key": "catapult",
+      "name": "23 · Their own weapons",
+      "sec": 64.98,
+      "place": "china",
+      "light": "golden",
+      "camera": [
+        5,
+        3.4,
+        12
+      ],
+      "look": [
+        0,
+        2,
+        -1
+      ],
+      "end": 2010,
+      "roll": 0.04,
+      "id": "catapult",
+      "start": 1949,
+      "cameraEnd": [
+        3.5,
+        3.2,
+        10.0
+      ]
+    },
+    {
+      "key": "burning",
+      "name": "24 · A city on fire",
+      "sec": 67,
+      "place": "china",
+      "light": "golden",
+      "camera": [
+        13,
+        10,
+        27
+      ],
+      "look": [
+        0,
+        4,
+        -7
+      ],
+      "end": 2085,
+      "id": "burning",
+      "start": 2010,
+      "cameraEnd": [
+        10.0,
+        8.5,
+        24.0
+      ]
+    },
+    {
+      "key": "caravan",
+      "name": "25 · An offer of trade",
+      "sec": 69.5,
+      "place": "desert",
+      "light": "day",
+      "camera": [
+        5,
+        3.6,
+        14
+      ],
+      "look": [
+        0,
+        1.6,
+        0
+      ],
+      "end": 2200,
+      "id": "caravan",
+      "start": 2085,
+      "cameraEnd": [
+        3.0,
+        3.0,
+        11.0
+      ]
+    },
+    {
+      "key": "execute",
+      "name": "26a · The messenger is executed",
+      "sec": 73.34,
+      "place": "persia",
+      "light": "golden",
+      "camera": [
+        1.5,
+        2.5,
+        9
+      ],
+      "look": [
+        0,
+        1.2,
+        0
+      ],
+      "end": 2269,
+      "dof": 5,
+      "id": "execute",
+      "start": 2200,
+      "cameraEnd": [
+        1.3,
+        2.3,
+        8.4
+      ]
+    },
+    {
+      "key": "dispatch",
+      "name": "26b · The sack is sent back",
+      "sec": 75.62,
+      "place": "persia",
+      "light": "golden",
+      "camera": [
+        1.5,
+        2.5,
+        8.3
+      ],
+      "look": [
+        0.3,
+        1.4,
+        0
+      ],
+      "end": 2297,
+      "id": "dispatch",
+      "start": 2269,
+      "cameraEnd": [
+        1.8,
+        2.4,
+        8
+      ]
+    },
+    {
+      "key": "sack",
+      "name": "26c · The courier returns the sack",
+      "sec": 76.55,
+      "place": "camp",
+      "light": "golden",
+      "camera": [
+        1.5,
+        2.5,
+        7.3
+      ],
+      "look": [
+        0.1,
+        1.3,
+        0
+      ],
+      "end": 2330,
+      "dof": 11,
+      "id": "sack",
+      "start": 2297,
+      "cameraEnd": [
+        1.2,
+        2.4,
+        7
+      ]
+    },
+    {
+      "key": "wrath",
+      "name": "27 · The decision",
+      "sec": 77.65,
+      "place": "steppe",
+      "light": "golden",
+      "camera": [
+        0.8,
+        2,
+        4.9
+      ],
+      "look": [
+        0,
+        1.9,
+        0
+      ],
+      "dof": 14,
+      "roll": -0.045,
+      "id": "wrath",
+      "start": 2330,
+      "end": 2390
+    },
+    {
+      "key": "desert",
+      "name": "28 · Across the desert",
+      "sec": 79.65,
+      "place": "desert",
+      "light": "day",
+      "camera": [
+        12,
+        7.5,
+        23
+      ],
+      "look": [
+        0,
+        1.3,
+        0
+      ],
+      "end": 2461,
+      "id": "desert",
+      "start": 2390,
+      "cameraEnd": [
+        9.0,
+        6.0,
+        20.0
+      ]
+    },
+    {
+      "key": "flood",
+      "name": "29 · The diverted river",
+      "sec": 82.03,
+      "place": "persia",
+      "light": "day",
+      "camera": [
+        13,
+        12,
+        25
+      ],
+      "look": [
+        0,
+        2,
+        -5
+      ],
+      "end": 2584,
+      "id": "flood",
+      "start": 2461,
+      "cameraEnd": [
+        10.0,
+        10.0,
+        23.0
+      ]
+    },
+    {
+      "key": "conquest",
+      "name": "30 · An empire expands",
+      "sec": 86.12,
+      "place": "empire",
+      "light": "golden",
+      "camera": [
+        0,
+        18,
+        23
+      ],
+      "look": [
+        0,
+        0,
+        0
+      ],
+      "end": 2735,
+      "id": "conquest",
+      "start": 2584,
+      "cameraEnd": [
+        0.0,
+        22.0,
+        28.0
+      ]
+    },
+    {
+      "key": "fever",
+      "name": "31 · The aging khan",
+      "sec": 91.15,
+      "place": "tent",
+      "light": "golden",
+      "camera": [
+        3.7,
+        3,
+        8
+      ],
+      "look": [
+        0,
+        1.5,
+        0
+      ],
+      "end": 2902,
+      "dof": 12,
+      "id": "fever",
+      "start": 2735,
+      "cameraEnd": [
+        2.1,
+        2.6,
+        6.4
+      ]
+    },
+    {
+      "key": "order",
+      "name": "32 · His sons gather",
+      "sec": 96.72,
+      "place": "tent",
+      "light": "golden",
+      "camera": [
+        4.5,
+        3.5,
+        10
+      ],
+      "look": [
+        0,
+        1.6,
+        0
+      ],
+      "end": 3047,
+      "dof": 7,
+      "id": "order",
+      "start": 2902,
+      "cameraEnd": [
+        3.0,
+        3.0,
+        8.0
+      ]
+    },
+    {
+      "key": "secret",
+      "name": "33 · The last command",
+      "sec": 101.55,
+      "place": "tent",
+      "light": "golden",
+      "camera": [
+        0.9,
+        2.4,
+        5.3
+      ],
+      "look": [
+        0,
+        1.85,
+        0
+      ],
+      "dof": 14,
+      "id": "secret",
+      "start": 3047,
+      "end": 3098
+    },
+    {
+      "key": "grave",
+      "name": "34 · An unmarked grave",
+      "sec": 103.27,
+      "place": "mountain",
+      "light": "golden",
+      "camera": [
+        6,
+        4,
+        12
+      ],
+      "look": [
+        0,
+        0.6,
+        0
+      ],
+      "end": 3142,
+      "id": "grave",
+      "start": 3098,
+      "cameraEnd": [
+        4.0,
+        3.5,
+        10.0
+      ]
+    },
+    {
+      "key": "procession",
+      "name": "35 · A secret procession",
+      "sec": 104.72,
+      "place": "mountain",
+      "light": "night",
+      "camera": [
+        7,
+        3.2,
+        18
+      ],
+      "look": [
+        1,
+        1.1,
+        -3.8
+      ],
+      "end": 3240,
+      "id": "procession",
+      "start": 3142,
+      "cameraEnd": [
+        5.5,
+        2.8,
+        16.0
+      ]
+    },
+    {
+      "key": "nothing",
+      "name": "36 · The boy in the snow",
+      "sec": 108,
+      "place": "winter",
+      "light": "winter",
+      "camera": [
+        2.4,
+        2,
+        6.4
+      ],
+      "look": [
+        0,
+        1,
+        0
+      ],
+      "dof": 12,
+      "id": "nothing",
+      "start": 3240,
+      "end": 3293
+    },
+    {
+      "key": "legacy",
+      "name": "37 · The world he left behind",
+      "sec": 109.78,
+      "place": "steppe",
+      "light": "golden",
+      "camera": [
+        10,
+        7,
+        19
+      ],
+      "look": [
+        0,
+        1.4,
+        0
+      ],
+      "end": 3398,
+      "id": "legacy",
+      "start": 3293,
+      "cameraEnd": [
+        14.0,
+        11.0,
+        28.0
+      ]
+    },
+    {
+      "key": "bones",
+      "name": "38 · Lost to the mountains",
+      "sec": 113.27,
+      "place": "mountain",
+      "light": "golden",
+      "camera": [
+        8,
+        6,
+        18
+      ],
+      "look": [
+        0,
+        0.7,
+        -1
+      ],
+      "end": 3499,
+      "id": "bones",
+      "start": 3398,
+      "cameraEnd": [
+        14.0,
+        11.0,
+        30.0
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "opening-cry",
+      "shot": "abandoned",
+      "frame": 18,
+      "type": "reaction",
+      "visual": "Child sobs in the cold",
+      "sound": {
+        "asset": "cry",
+        "bus": "reactions",
+        "gainDb": -10
+      }
+    },
+    {
+      "id": "blink-59",
+      "shot": "abandoned",
+      "frame": 59,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-118",
+      "shot": "abandoned",
+      "frame": 118,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-177",
+      "shot": "abandoned",
+      "frame": 177,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "cup-lift",
+      "shot": "poison",
+      "frame": 182,
+      "type": "movement",
+      "visual": "Father raises cup",
+      "sound": {
+        "asset": "cloth",
+        "bus": "foley",
+        "gainDb": -12
+      }
+    },
+    {
+      "id": "drink",
+      "shot": "poison",
+      "frame": 189,
+      "type": "contact",
+      "visual": "Cup touches mouth; swallow",
+      "sound": {
+        "asset": "gulp",
+        "bus": "foley",
+        "gainDb": -10,
+        "peakFrame": 189
+      }
+    },
+    {
+      "id": "poison-reaction",
+      "shot": "poison",
+      "frame": 198,
+      "type": "reaction",
+      "visual": "Face turns sick",
+      "sound": {
+        "asset": "effort",
+        "bus": "reactions",
+        "gainDb": -8
+      }
+    },
+    {
+      "id": "cup-drop",
+      "shot": "poison",
+      "frame": 210,
+      "type": "contact",
+      "visual": "Dropped cup contacts ground",
+      "sound": {
+        "asset": "impact",
+        "bus": "foley",
+        "gainDb": -12,
+        "peakFrame": 210
+      }
+    },
+    {
+      "id": "father-fall",
+      "shot": "poison",
+      "frame": 216,
+      "type": "contact",
+      "visual": "Father collapses onto felt",
+      "sound": {
+        "asset": "cloth",
+        "bus": "foley",
+        "gainDb": -12,
+        "peakFrame": 216
+      }
+    },
+    {
+      "id": "blink-236",
+      "shot": "robbed",
+      "frame": 236,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "theft-lift",
+      "shot": "robbed",
+      "frame": 237,
+      "type": "contact",
+      "visual": "Chest lifted in both hands; family reacts",
+      "sound": {
+        "asset": "gasp",
+        "bus": "reactions",
+        "gainDb": -10,
+        "peakFrame": 237
+      }
+    },
+    {
+      "id": "blink-295",
+      "shot": "rats",
+      "frame": 295,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "stone-release",
+      "shot": "rats",
+      "frame": 297,
+      "type": "release",
+      "visual": "Stone leaves hand",
+      "sound": {
+        "asset": "whoosh",
+        "bus": "accents",
+        "gainDb": -16
+      }
+    },
+    {
+      "id": "rat-hit",
+      "shot": "rats",
+      "frame": 312,
+      "type": "contact",
+      "visual": "Stone contacts rat; dust burst",
+      "sound": {
+        "asset": "impact",
+        "bus": "foley",
+        "gainDb": -8,
+        "peakFrame": 312
+      }
+    },
+    {
+      "id": "root-grip",
+      "shot": "roots",
+      "frame": 330,
+      "type": "contact",
+      "visual": "Hand grips root",
+      "sound": {
+        "asset": "cloth",
+        "bus": "foley",
+        "gainDb": -12,
+        "peakFrame": 330
+      }
+    },
+    {
+      "id": "root-effort",
+      "shot": "roots",
+      "frame": 338,
+      "type": "reaction",
+      "visual": "Child strains at frozen roots",
+      "sound": {
+        "asset": "effort",
+        "bus": "reactions",
+        "gainDb": -12
+      }
+    },
+    {
+      "id": "root-free",
+      "shot": "roots",
+      "frame": 348,
+      "type": "contact",
+      "visual": "Roots break free; dirt falls",
+      "sound": {
+        "asset": "impact",
+        "bus": "foley",
+        "gainDb": -16,
+        "peakFrame": 348
+      }
+    },
+    {
+      "id": "blink-472",
+      "shot": "cage",
+      "frame": 472,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "collar-contact",
+      "shot": "cage",
+      "frame": 491,
+      "type": "contact",
+      "visual": "Wood and iron close around neck",
+      "sound": {
+        "asset": "metal-latch",
+        "bus": "foley",
+        "gainDb": -6,
+        "peakFrame": 491
+      }
+    },
+    {
+      "id": "blink-514",
+      "shot": "cage",
+      "frame": 514,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-531",
+      "shot": "cage",
+      "frame": 531,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-573",
+      "shot": "cage",
+      "frame": 573,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-590",
+      "shot": "escape",
+      "frame": 590,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "guard-hit",
+      "shot": "escape",
+      "frame": 627,
+      "type": "contact",
+      "visual": "Club meets head; guard falls",
+      "sound": {
+        "asset": "impact",
+        "bus": "foley",
+        "gainDb": -8,
+        "peakFrame": 627
+      }
+    },
+    {
+      "id": "blink-649",
+      "shot": "escape",
+      "frame": 649,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-767",
+      "shot": "reeds",
+      "frame": 767,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-826",
+      "shot": "temujin",
+      "frame": 826,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-885",
+      "shot": "temujin",
+      "frame": 885,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-944",
+      "shot": "khan",
+      "frame": 944,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1003",
+      "shot": "outcasts",
+      "frame": 1003,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1045",
+      "shot": "outcasts",
+      "frame": 1045,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1062",
+      "shot": "outcasts",
+      "frame": 1062,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1104",
+      "shot": "outcasts",
+      "frame": 1104,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1121",
+      "shot": "kidnap",
+      "frame": 1121,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1180",
+      "shot": "kidnap",
+      "frame": 1180,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "mistake-kick",
+      "shot": "mistake",
+      "frame": 1193,
+      "type": "camera",
+      "visual": "Impact camera kick",
+      "sound": null
+    },
+    {
+      "id": "mistake-anger",
+      "shot": "mistake",
+      "frame": 1200,
+      "type": "reaction",
+      "visual": "Khan sets jaw and grunts",
+      "sound": {
+        "asset": "angry",
+        "bus": "reactions",
+        "gainDb": -7
+      }
+    },
+    {
+      "id": "blink-1239",
+      "shot": "mistake",
+      "frame": 1239,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "charge-kick",
+      "shot": "charge",
+      "frame": 1253,
+      "type": "camera",
+      "visual": "Impact camera kick",
+      "sound": null
+    },
+    {
+      "id": "blink-1458",
+      "shot": "rules",
+      "frame": 1458,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1475",
+      "shot": "rules",
+      "frame": 1475,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1517",
+      "shot": "rules",
+      "frame": 1517,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1534",
+      "shot": "rules",
+      "frame": 1534,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-1576",
+      "shot": "beggar",
+      "frame": 1576,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "beggar-hit-1",
+      "shot": "beggar",
+      "frame": 1584,
+      "type": "contact",
+      "visual": "Beggar defeats first opponent",
+      "sound": {
+        "asset": "impact",
+        "bus": "foley",
+        "gainDb": -9,
+        "peakFrame": 1584
+      }
+    },
+    {
+      "id": "blink-1593",
+      "shot": "beggar",
+      "frame": 1593,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "beggar-hit-2",
+      "shot": "beggar",
+      "frame": 1598,
+      "type": "contact",
+      "visual": "Beggar defeats second opponent",
+      "sound": {
+        "asset": "impact",
+        "bus": "foley",
+        "gainDb": -9,
+        "peakFrame": 1598
+      }
+    },
+    {
+      "id": "khan-approval",
+      "shot": "beggar",
+      "frame": 1600,
+      "type": "reaction",
+      "visual": "Khan smiles and applauds",
+      "sound": {
+        "asset": "pop",
+        "bus": "accents",
+        "gainDb": -18
+      }
+    },
+    {
+      "id": "promotion",
+      "shot": "general",
+      "frame": 1620,
+      "type": "transform",
+      "visual": "Same face becomes general; standard appears",
+      "sound": {
+        "asset": "chime",
+        "bus": "accents",
+        "gainDb": -16
+      }
+    },
+    {
+      "id": "blink-1947",
+      "shot": "engineers",
+      "frame": 1947,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "catapult-release",
+      "shot": "catapult",
+      "frame": 1980,
+      "type": "release",
+      "visual": "Arm releases stone",
+      "sound": {
+        "asset": "impact",
+        "bus": "foley",
+        "gainDb": -9
+      }
+    },
+    {
+      "id": "wall-impact",
+      "shot": "catapult",
+      "frame": 2002,
+      "type": "contact",
+      "visual": "Stone strikes wall",
+      "sound": {
+        "asset": "weight",
+        "bus": "accents",
+        "gainDb": -10,
+        "peakFrame": 2002
+      }
+    },
+    {
+      "id": "blink-2006",
+      "shot": "catapult",
+      "frame": 2006,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "messenger-hit",
+      "shot": "execute",
+      "frame": 2225,
+      "type": "contact",
+      "visual": "Symbolic silhouette execution",
+      "sound": {
+        "asset": "impact",
+        "bus": "foley",
+        "gainDb": -12,
+        "peakFrame": 2225
+      }
+    },
+    {
+      "id": "sack-handoff",
+      "shot": "dispatch",
+      "frame": 2287,
+      "type": "contact",
+      "visual": "Sack settles in attached saddle basket",
+      "sound": {
+        "asset": "cloth",
+        "bus": "foley",
+        "gainDb": -10,
+        "peakFrame": 2287
+      }
+    },
+    {
+      "id": "blink-2301",
+      "shot": "sack",
+      "frame": 2301,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "sack-shock",
+      "shot": "sack",
+      "frame": 2310,
+      "type": "reaction",
+      "visual": "Khan eyes widen and gasps",
+      "sound": {
+        "asset": "gasp",
+        "bus": "reactions",
+        "gainDb": -7
+      }
+    },
+    {
+      "id": "sack-drop",
+      "shot": "sack",
+      "frame": 2311,
+      "type": "contact",
+      "visual": "Sack lands on table",
+      "sound": {
+        "asset": "impact",
+        "bus": "foley",
+        "gainDb": -12,
+        "peakFrame": 2311
+      }
+    },
+    {
+      "id": "wrath-cut",
+      "shot": "wrath",
+      "frame": 2330,
+      "type": "accent",
+      "visual": "Wrath close-up lands",
+      "sound": {
+        "asset": "weight",
+        "bus": "accents",
+        "gainDb": -16
+      }
+    },
+    {
+      "id": "wrath-intake",
+      "shot": "wrath",
+      "frame": 2331,
+      "type": "reaction",
+      "visual": "Khan takes angry breath",
+      "sound": {
+        "asset": "angry",
+        "bus": "reactions",
+        "gainDb": -14
+      }
+    },
+    {
+      "id": "blink-2360",
+      "shot": "wrath",
+      "frame": 2360,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -16,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "unleash-anger",
+      "shot": "wrath",
+      "frame": 2370,
+      "type": "reaction",
+      "visual": "Khan growls at unleash hell",
+      "sound": {
+        "asset": "angry",
+        "bus": "reactions",
+        "gainDb": -6
+      }
+    },
+    {
+      "id": "blink-2773",
+      "shot": "fever",
+      "frame": 2773,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-2832",
+      "shot": "fever",
+      "frame": 2832,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-2891",
+      "shot": "fever",
+      "frame": 2891,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-2916",
+      "shot": "order",
+      "frame": 2916,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-2933",
+      "shot": "order",
+      "frame": 2933,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-2950",
+      "shot": "order",
+      "frame": 2950,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-2975",
+      "shot": "order",
+      "frame": 2975,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-2992",
+      "shot": "order",
+      "frame": 2992,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-3009",
+      "shot": "order",
+      "frame": 3009,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-3034",
+      "shot": "order",
+      "frame": 3034,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-3068",
+      "shot": "secret",
+      "frame": 3068,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    },
+    {
+      "id": "blink-3245",
+      "shot": "nothing",
+      "frame": 3245,
+      "type": "blink",
+      "visual": "Visible principal eyelids close",
+      "sound": {
+        "asset": "blink",
+        "bus": "accents",
+        "gainDb": -23,
+        "variant": 0,
+        "durationSeconds": 0.12
+      }
+    }
+  ],
+  "review": {
+    "technical": "passed",
+    "visual": "pending",
+    "audio": "pending"
+  },
+  "revisions": [
+    {
+      "id": "subject-and-narration",
+      "request": "Use the supplied complete Genghis Khan biography, not Beowulf; preview only.",
+      "shots": [
+        "all"
+      ],
+      "changes": [
+        "Correct subject and 116.610612-second recording",
+        "3499-frame composition; no forced 55–70 second trim"
+      ],
+      "status": "implemented in original project; narration is private and omitted from distributed example"
+    },
+    {
+      "id": "physical-causality",
+      "request": "Make poisoning, robbery, rat hunting/root pulling, collar, head strike, earned promotion, supported vases and messenger execution/sack dispatch readable.",
+      "shots": [
+        "poison",
+        "robbed",
+        "rats",
+        "roots",
+        "cage",
+        "escape",
+        "beggar",
+        "general",
+        "caravan",
+        "execute",
+        "dispatch",
+        "sack"
+      ],
+      "changes": [
+        "Explicit grip, wind-up, contact, consequence and prop attachment",
+        "Same identity before and after promotion; leader approval"
+      ],
+      "status": "staging preserved in worked example; review source in live preview"
+    },
+    {
+      "id": "material-sound",
+      "request": "Give expressions and movement a professional sound pass.",
+      "changes": [
+        "Separate Foley, accents, ambience, music and reaction tracks",
+        "Recorded materials, gait contacts, layered impacts, narration-relative mix"
+      ],
+      "status": "approved local mix retained; reusable bank and data-driven mixer added separately"
+    },
+    {
+      "id": "face-voices",
+      "request": "Shocked/choked response at 1:17 and angry vocal at 1:19.",
+      "events": [
+        "sack-shock",
+        "wrath-intake",
+        "unleash-anger"
+      ],
+      "changes": [
+        "Nonverbal gasp and angry intake/growl beside narration"
+      ],
+      "status": "implemented in original project; included as semantic kit events"
+    },
+    {
+      "id": "opening-and-blinks",
+      "request": "Crying, drinking, poison grunt, robbery reaction, rock hit, roots, anger at 40/79 seconds and audible blinks.",
+      "events": [
+        "opening-cry",
+        "drink",
+        "poison-reaction",
+        "theft-lift",
+        "rat-hit",
+        "root-effort",
+        "mistake-anger",
+        "unleash-anger"
+      ],
+      "changes": [
+        "Visible principal blink roster shares character clock",
+        "Quiet ending uses reduced blink gain"
+      ],
+      "status": "implemented in original project; 44 blink closures transferred to contract"
+    },
+    {
+      "id": "reusable-kit",
+      "request": "Make the format reproducible with smaller assistants; implement skill and repository improvements.",
+      "changes": [
+        "Portable starter, schema, shared clocks/action helpers, CC0 sound bank, cache checks",
+        "Separate source tests from watched/listened reviews; no required model family"
+      ],
+      "status": "implemented; technical forward tests passed; subjective and smaller-model evaluation remain separate"
+    }
+  ],
+  "reviewEvidence": [
+    {
+      "kind": "technical",
+      "scope": "35 automated tests; fresh 17s24fps and held-out27s30fps; Genghis42-shot source/typecheck; narration hash retained",
+      "result": "passed",
+      "date": "2026-11-02"
+    },
+    {
+      "kind": "visual-and-audio",
+      "scope": "This kit refactor was not rendered or subjectively auditioned. Earlier Genghis approvals belong to their recorded revisions.",
+      "result": "pending"
+    },
+    {
+      "kind": "model-evaluation",
+      "scope": "No smaller-model trial or cross-model success-rate measurement has been performed.",
+      "result": "not-tested"
+    }
+  ]
+}

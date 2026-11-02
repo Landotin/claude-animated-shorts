@@ -1,0 +1,59 @@
+[
+  {
+    "file": "male-gasp-jawbutch.mp3",
+    "title": "Male Gasp 1.wav",
+    "creator": "jawbutch",
+    "source_url": "https://freesound.org/people/jawbutch/sounds/344407/",
+    "download_url": "https://cdn.freesound.org/previews/344/344407_4986214-hq.mp3",
+    "license": "CC0-1.0",
+    "format_note": "Creator-provided high-quality MP3 preview; edited nonverbal sound effect.",
+    "sha256": "5d6b4cf6c9eafebd4ec7d33159629e4895ff0b7ba6ee27f2df9a8fb75223ed87"
+  },
+  {
+    "file": "angry-grunt-rocotilos.mp3",
+    "title": "Angry Grunt",
+    "creator": "Rocotilos",
+    "source_url": "https://freesound.org/people/Rocotilos/sounds/341489/",
+    "download_url": "https://cdn.freesound.org/previews/341/341489_1400623-hq.mp3",
+    "license": "CC0-1.0",
+    "format_note": "Creator-provided high-quality MP3 preview; edited nonverbal sound effect.",
+    "sha256": "dc4aeb456ea1f274bc31e53a29b2b6d53f8190aadd6336dc88b8abbe7a02a8a4"
+  },
+  {
+    "file": "female-gasp-slamaxu.mp3",
+    "title": "female_gasp.wav",
+    "creator": "slamaxu",
+    "source_url": "https://freesound.org/people/slamaxu/sounds/509883/",
+    "download_url": "https://cdn.freesound.org/previews/509/509883_9238038-hq.mp3",
+    "license": "CC0-1.0",
+    "format_note": "Creator-provided high-quality MP3 preview; edited nonverbal sound effect.",
+    "sha256": "d49bfabb3789caf19a08fad8bc6df5bce55d5f967d3212e6613f2f4d40654709"
+  },
+  {
+    "folder": "qubodup-efforts",
+    "title": "15 vocal male strain/hurt/pain/jump sounds",
+    "creator": "qubodup",
+    "source_url": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+    "download_url": "https://opengameart.org/sites/default/files/slightscreams.7z",
+    "license": "CC0-1.0",
+    "license_note": "Creator explicitly relicensed under CC0 starting 2024-08-30.",
+    "archive_sha256": "3220b234efed17305bef05fe82c5d2e2b38302ae02b0d188021af9b045499a1e",
+    "files": {
+      "slightscream-06.flac": "ee3fe078219715be8cc3dadcb60dca12c129e820eb5c901ab5cef1ed0b631bbe",
+      "slightscream-05.flac": "0659fb515b329319cf4f76055a752aeb0e88fb91872814455155492f18808a99",
+      "slightscream-12.flac": "11f229f85b22edb730fb59d44f5b878622f0068757502f405000bfc984afa090",
+      "slightscream-10.flac": "27a55ecc5d6927d4ae338876e9f63675dd3caf439ff0f4b9e7b89004e4a748d2",
+      "slightscream-08.flac": "4fea98031db3d9e8b882c7a85d9477f5e874838c4be48c21320b9c594129238f",
+      "slightscream-07.flac": "4386642c49cb7e93342eb6a55294f59fe1a7a425292eb3a1e54ed6bb2f421776",
+      "slightscream-01.flac": "f7ed88189eb9861384fbcf984733be9702f0ed8b0d0724fba34928b13289d91a",
+      "slightscream-11.flac": "4d58e441ddf1aa372ceac29943446d3628c5432d00a10d4a190140f277e98f38",
+      "slightscream-02.flac": "ee61bcf8103174a14720f365ef5e701c79f7b4c942ef0df25e5ba6709f3f01f6",
+      "slightscream-15.flac": "4185e0b7612ad25cfa3e5858ad00a9b073fab9dac5afa71afd5e970e6a16640b",
+      "slightscream-09.flac": "5bcf2acd79e11da4250bda1b49362e2771b91d4cc575f047fa3562f88300a4e5",
+      "slightscream-04.flac": "63e100536d4821d6b7c13593c8e74732d47ac39dce1ce7078371f19dda5c392e",
+      "slightscream-14.flac": "fbbc63c46c922689b3b55c62d910f3dff060327d416fc44feeffb27ced126eaa",
+      "slightscream-03.flac": "4d150f341ac621a7d8b6d0891d946c6c934964b0b5ef06a00ffe24ddacfea235",
+      "slightscream-13.flac": "90c1f899f80231981ebf9f62143a747b172c91c054c1f13ac32c3dcd5a3120bc"
+    }
+  }
+]

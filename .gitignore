@@ -1,0 +1,12 @@
+node_modules/
+out/
+.remotion-tmp/
+__pycache__/
+*.pyc
+*.log
+# Private visual studies stay local, including files present in earlier repository history.
+references/frames/
+references/sheets/
+# Supplied narration and generated stems/exports are project-local.
+kit/examples/**/public/
+kit/starter/public/

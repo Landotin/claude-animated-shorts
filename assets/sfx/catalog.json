@@ -1,0 +1,2368 @@
+{
+  "version": 1,
+  "sampleRate": 48000,
+  "notes": "Recorded files are unmodified CC0 sources. Trims, levels and pitch variants are editable starting points, not an audition certificate. Procedural accents use original MIT code, with no third-party accent audio.",
+  "assets": {
+    "kenney/beltHandle1": {
+      "kind": "recording",
+      "path": "kenney-rpg/beltHandle1.ogg",
+      "sha256": "2ef665bd8b65dbe669f4560be38a6d8f04a162e618b15a49e3e71b58e558aab0",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.014875,
+        "endSeconds": 0.25416667
+      },
+      "peakOffsetSeconds": 0.10120833,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/beltHandle2": {
+      "kind": "recording",
+      "path": "kenney-rpg/beltHandle2.ogg",
+      "sha256": "f3b692d5c83263c25bce779805b212dbab515d18a603c695fc6a1e8650cf5366",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.06022917,
+        "endSeconds": 0.4111875
+      },
+      "peakOffsetSeconds": 0.1291875,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/bookClose": {
+      "kind": "recording",
+      "path": "kenney-rpg/bookClose.ogg",
+      "sha256": "81e976532565f4372abd14e83d2684195fa548d0a28d345de221e56052454f32",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.04939583,
+        "endSeconds": 0.23060417
+      },
+      "peakOffsetSeconds": 0.029125,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/bookFlip1": {
+      "kind": "recording",
+      "path": "kenney-rpg/bookFlip1.ogg",
+      "sha256": "fa81ac2fedc8c641661b87e349630a36c9800e795e0c800e029214efdbe26a7d",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.07170833,
+        "endSeconds": 0.734125
+      },
+      "peakOffsetSeconds": 0.00347917,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/bookFlip2": {
+      "kind": "recording",
+      "path": "kenney-rpg/bookFlip2.ogg",
+      "sha256": "3409042acbfaebc24c1a6327dc073e36f9250841712e96c5040da566a97df73c",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0328125,
+        "endSeconds": 0.41527083
+      },
+      "peakOffsetSeconds": 0.00497917,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/bookFlip3": {
+      "kind": "recording",
+      "path": "kenney-rpg/bookFlip3.ogg",
+      "sha256": "c85db5dceb3f1df073e960630277eaa88a5afda0477c1ddd68dad707621767be",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0275,
+        "endSeconds": 0.23060417
+      },
+      "peakOffsetSeconds": 0.00545833,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/bookOpen": {
+      "kind": "recording",
+      "path": "kenney-rpg/bookOpen.ogg",
+      "sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.00089583,
+        "endSeconds": 0.1510625
+      },
+      "peakOffsetSeconds": 0.05910417,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/bookPlace1": {
+      "kind": "recording",
+      "path": "kenney-rpg/bookPlace1.ogg",
+      "sha256": "26f3ce60fbde85b678b0ad7f6624d80535fe540d88232ad1e38e47a96662d977",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01295833,
+        "endSeconds": 0.2253125
+      },
+      "peakOffsetSeconds": 0.057125,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/bookPlace2": {
+      "kind": "recording",
+      "path": "kenney-rpg/bookPlace2.ogg",
+      "sha256": "831874e8fd142d4d0a03ff009f1f83966338a7878c0f6f38c613ae5b80dd731e",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.031125,
+        "endSeconds": 0.2576875
+      },
+      "peakOffsetSeconds": 0.05091667,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/bookPlace3": {
+      "kind": "recording",
+      "path": "kenney-rpg/bookPlace3.ogg",
+      "sha256": "b1afa711e1cabfe5b2c56e20e20e0f9d82142d067727447fa992ddc43dbdb06e",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0093125,
+        "endSeconds": 0.22639583
+      },
+      "peakOffsetSeconds": 0.03083333,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/chop": {
+      "kind": "recording",
+      "path": "kenney-rpg/chop.ogg",
+      "sha256": "d00c2b3c9fff07e376145c8c8c45c90e5084ec192f6ce0387db233f7b86f1486",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.02010417,
+        "endSeconds": 0.24025
+      },
+      "peakOffsetSeconds": 0.03370833,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/cloth1": {
+      "kind": "recording",
+      "path": "kenney-rpg/cloth1.ogg",
+      "sha256": "ddb93a3671233f95da0e0b10367f082f7eb42fa6caaddcf776410aa8833c747d",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.07045833,
+        "endSeconds": 0.57835417
+      },
+      "peakOffsetSeconds": 0.06033333,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/cloth2": {
+      "kind": "recording",
+      "path": "kenney-rpg/cloth2.ogg",
+      "sha256": "8a7451193c38bc05483aec25dd193e163a15d44cf7fff04ac7912573231b0201",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.05258333,
+        "endSeconds": 0.39383333
+      },
+      "peakOffsetSeconds": 0.0616875,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/cloth3": {
+      "kind": "recording",
+      "path": "kenney-rpg/cloth3.ogg",
+      "sha256": "a48632d17a4f1416541d261a32a31612e01267144c407fa3ecab3ff410f0085b",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.013375,
+        "endSeconds": 0.4765625
+      },
+      "peakOffsetSeconds": 0.155875,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/cloth4": {
+      "kind": "recording",
+      "path": "kenney-rpg/cloth4.ogg",
+      "sha256": "e7ab9a6c4466dea874196c61f59bf1da05cfe58748f42fadd695d441a154a99b",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0,
+        "endSeconds": 0.38433333
+      },
+      "peakOffsetSeconds": 0.09085417,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/clothBelt": {
+      "kind": "recording",
+      "path": "kenney-rpg/clothBelt.ogg",
+      "sha256": "f29560a2aea95bbfeb643e1e8f56ec2b6f7e32f32ce4e140645a36db81de3253",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0350625,
+        "endSeconds": 0.70495833
+      },
+      "peakOffsetSeconds": 0.17402083,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/clothBelt2": {
+      "kind": "recording",
+      "path": "kenney-rpg/clothBelt2.ogg",
+      "sha256": "d545b1d9f20e6188140aaf551a96f1e82fe0d15f7ca066fac8b065e1231e0038",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0590625,
+        "endSeconds": 0.56233333
+      },
+      "peakOffsetSeconds": 0.0618125,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/creak1": {
+      "kind": "recording",
+      "path": "kenney-rpg/creak1.ogg",
+      "sha256": "8a346186fd297254248cab8e8117060a52a5cf2a84f603153a762108550ea95e",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.05902083,
+        "endSeconds": 0.6130625
+      },
+      "peakOffsetSeconds": 0.13595833,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/creak2": {
+      "kind": "recording",
+      "path": "kenney-rpg/creak2.ogg",
+      "sha256": "8a990afdc03aebb91d528f5385e2f95582dbfa8e2c12c71098ab01be9142294a",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.00725,
+        "endSeconds": 0.70725
+      },
+      "peakOffsetSeconds": 0.05727083,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/creak3": {
+      "kind": "recording",
+      "path": "kenney-rpg/creak3.ogg",
+      "sha256": "f9638787f95004b9d2d06f8eff8e99d4e594c21b51947daf562856fbcec905d1",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01716667,
+        "endSeconds": 0.32170833
+      },
+      "peakOffsetSeconds": 0.08175,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/doorClose_1": {
+      "kind": "recording",
+      "path": "kenney-rpg/doorClose_1.ogg",
+      "sha256": "834d29c60a8a8bfb50b158cdb6b7dfa8f02812a408a1ee9703d038dfab0b1aeb",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.002375,
+        "endSeconds": 0.44879167
+      },
+      "peakOffsetSeconds": 0.01602083,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/doorClose_2": {
+      "kind": "recording",
+      "path": "kenney-rpg/doorClose_2.ogg",
+      "sha256": "4aa4fe79836c53cd6d0cb0b22ddc33b9901429463ae1bb75131f072683f63f21",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0181875,
+        "endSeconds": 0.52395833
+      },
+      "peakOffsetSeconds": 0.04164583,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/doorClose_3": {
+      "kind": "recording",
+      "path": "kenney-rpg/doorClose_3.ogg",
+      "sha256": "d0a2540e5e1639bc2fbeef34e76f28e9f9cb8a151736a0ac4c13859994328d0e",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01995833,
+        "endSeconds": 0.7139375
+      },
+      "peakOffsetSeconds": 0.00625,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/doorClose_4": {
+      "kind": "recording",
+      "path": "kenney-rpg/doorClose_4.ogg",
+      "sha256": "fd21c0e7a9d0317375d2561590f0770dd3380ee35507d064862cb44d6f71595b",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.03108333,
+        "endSeconds": 0.53066667
+      },
+      "peakOffsetSeconds": 0.17127083,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/doorOpen_1": {
+      "kind": "recording",
+      "path": "kenney-rpg/doorOpen_1.ogg",
+      "sha256": "4ab93bab96522d8eb109ff96dc57cb6765deb02448fe14c10472084be5bb2a0b",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.00454167,
+        "endSeconds": 0.70454167
+      },
+      "peakOffsetSeconds": 0.16589583,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/doorOpen_2": {
+      "kind": "recording",
+      "path": "kenney-rpg/doorOpen_2.ogg",
+      "sha256": "68962fb0458c9bac59dec3adefa9849703c7c89d34712de03dd0075d095e79e9",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.032125,
+        "endSeconds": 0.732125
+      },
+      "peakOffsetSeconds": 0.14395833,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/drawKnife1": {
+      "kind": "recording",
+      "path": "kenney-rpg/drawKnife1.ogg",
+      "sha256": "276403e72c3b71c47bc24db3083970c23f8e5551ffa78f436f83483c56f3f0bb",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.06029167,
+        "endSeconds": 0.35541667
+      },
+      "peakOffsetSeconds": 0.11329167,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/drawKnife2": {
+      "kind": "recording",
+      "path": "kenney-rpg/drawKnife2.ogg",
+      "sha256": "d5df6a4130cbb016f97b4883769a418917b9629cb4c21717030b186e0c73281a",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0,
+        "endSeconds": 0.37058333
+      },
+      "peakOffsetSeconds": 0.10677083,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/drawKnife3": {
+      "kind": "recording",
+      "path": "kenney-rpg/drawKnife3.ogg",
+      "sha256": "a11ae62fb1a628425769d11a9de394980ad8909c31f4c9a4316f226963e21caf",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.053375,
+        "endSeconds": 0.35375
+      },
+      "peakOffsetSeconds": 0.07775,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/dropLeather": {
+      "kind": "recording",
+      "path": "kenney-rpg/dropLeather.ogg",
+      "sha256": "097e1d3b74949b0145fda0519d40b7e0773ab82ec4858727f95be830927e1a45",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.00025,
+        "endSeconds": 0.31808333
+      },
+      "peakOffsetSeconds": 0.1266875,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep00": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep00.ogg",
+      "sha256": "6fe61ef1fc3bcf0e253bf2eb64759db6cb69e2fe452f4d88cc597ecf78a3d601",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.02360417,
+        "endSeconds": 0.22404167
+      },
+      "peakOffsetSeconds": 0.00483333,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep01": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep01.ogg",
+      "sha256": "313472dba31fd0c855376069fa368bb5a198c27251cc8398ef464578b7047a4c",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.03114583,
+        "endSeconds": 0.26302083
+      },
+      "peakOffsetSeconds": 0.00620833,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep02": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep02.ogg",
+      "sha256": "2d9575b7dead6e1217ca113991fc5229e9b6d998ea0726ebbb277e7398ab888f",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01164583,
+        "endSeconds": 0.2229375
+      },
+      "peakOffsetSeconds": 0.00545833,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep03": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep03.ogg",
+      "sha256": "a86756b9af9f370455ab47844239bb07fd1bee7a113068c91f0fcd9b72703fae",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01477083,
+        "endSeconds": 0.26339583
+      },
+      "peakOffsetSeconds": 0.08704167,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep04": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep04.ogg",
+      "sha256": "fd264d72a7cd622b82abde202f4ed09fa7de95d34c36473ee938ce66cdf39830",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.02725,
+        "endSeconds": 0.29804167
+      },
+      "peakOffsetSeconds": 0.0825,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep05": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep05.ogg",
+      "sha256": "817957e1f95d97fd36870064c41673895575cde17bccb245f50364c86ed10198",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01247917,
+        "endSeconds": 0.26495833
+      },
+      "peakOffsetSeconds": 0.008125,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep06": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep06.ogg",
+      "sha256": "6cabfe7ae95d227a84066c6e17014ac31cc7c89b14ef51d7877e98352d4a64fb",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.00054167,
+        "endSeconds": 0.242125
+      },
+      "peakOffsetSeconds": 0.00904167,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep07": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep07.ogg",
+      "sha256": "42924cdbf998d5b3db180a339fd74afc94c570d594a536687e337ef1bdfdb346",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.02158333,
+        "endSeconds": 0.1973125
+      },
+      "peakOffsetSeconds": 0.0068125,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep08": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep08.ogg",
+      "sha256": "668f14dc1254d0d0f33025e9c7dbcdf2c2f00462ed0e07fb8f099c1d711c1337",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0040625,
+        "endSeconds": 0.195625
+      },
+      "peakOffsetSeconds": 0.0141875,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/footstep09": {
+      "kind": "recording",
+      "path": "kenney-rpg/footstep09.ogg",
+      "sha256": "9324ebb9b2c5bcd078dcb523c6518d38a9f34081069d511602c2efb14ce06ce2",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01302083,
+        "endSeconds": 0.21522917
+      },
+      "peakOffsetSeconds": 0.06510417,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/handleCoins": {
+      "kind": "recording",
+      "path": "kenney-rpg/handleCoins.ogg",
+      "sha256": "8a91f969e932df709df80ee124d86a51389eed9b67f22e5e716bc2bbf60d8dab",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.051125,
+        "endSeconds": 0.751125
+      },
+      "peakOffsetSeconds": 0.10289583,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/handleCoins2": {
+      "kind": "recording",
+      "path": "kenney-rpg/handleCoins2.ogg",
+      "sha256": "4b857968d64f9ac9336a10ffac6694d7547e1f01566ad6857b30bc8db3ee6c32",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01722917,
+        "endSeconds": 0.32914583
+      },
+      "peakOffsetSeconds": 0.06102083,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/handleSmallLeather": {
+      "kind": "recording",
+      "path": "kenney-rpg/handleSmallLeather.ogg",
+      "sha256": "ae3cbf695aa0a8b98b5a80a835be5a3ccbd5446a24db2235cd4c3cd6fc92ed96",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0305,
+        "endSeconds": 0.2628125
+      },
+      "peakOffsetSeconds": 0.09777083,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/handleSmallLeather2": {
+      "kind": "recording",
+      "path": "kenney-rpg/handleSmallLeather2.ogg",
+      "sha256": "a66f6db5918ad016c28a9f2768f127a7f39b5fa04481e5a3b4e78ebe2a1c282d",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.05720833,
+        "endSeconds": 0.29675
+      },
+      "peakOffsetSeconds": 0.09475,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/knifeSlice": {
+      "kind": "recording",
+      "path": "kenney-rpg/knifeSlice.ogg",
+      "sha256": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0780625,
+        "endSeconds": 0.45345833
+      },
+      "peakOffsetSeconds": 0.15910417,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/knifeSlice2": {
+      "kind": "recording",
+      "path": "kenney-rpg/knifeSlice2.ogg",
+      "sha256": "6c2064d0ef988d1ec3d56868e823ea8823a5cac00f2742560052633529407def",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01427083,
+        "endSeconds": 0.45516667
+      },
+      "peakOffsetSeconds": 0.00585417,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/metalClick": {
+      "kind": "recording",
+      "path": "kenney-rpg/metalClick.ogg",
+      "sha256": "9851a69d0c613e13bceef08060ecc4148f098ef487927cbebe270d642398a3b3",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0,
+        "endSeconds": 0.3865
+      },
+      "peakOffsetSeconds": 0.10183333,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/metalLatch": {
+      "kind": "recording",
+      "path": "kenney-rpg/metalLatch.ogg",
+      "sha256": "ba9ba60b172b3ebc131a940f25793cd2e207aca7af73dc80d637277f060f1708",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0105625,
+        "endSeconds": 0.20379167
+      },
+      "peakOffsetSeconds": 0.03441667,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/metalPot1": {
+      "kind": "recording",
+      "path": "kenney-rpg/metalPot1.ogg",
+      "sha256": "159def979e8e386c2c539f5e99cc30a080eb2dcb6c911fa2e4ccc0785b2522fd",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.08720833,
+        "endSeconds": 0.78720833
+      },
+      "peakOffsetSeconds": 0.0264375,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/metalPot2": {
+      "kind": "recording",
+      "path": "kenney-rpg/metalPot2.ogg",
+      "sha256": "8e1f820d217d380fde10e969d109db34303e3f4d11c3951926eddef813d04ae2",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.11014583,
+        "endSeconds": 0.75985417
+      },
+      "peakOffsetSeconds": 0.023375,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "kenney/metalPot3": {
+      "kind": "recording",
+      "path": "kenney-rpg/metalPot3.ogg",
+      "sha256": "d306e5b848f6843332d0ca19f8f7dfe5796aeb56d8273902b085df463273f1dc",
+      "title": "RPG Audio",
+      "creator": "Kenney Vleugels",
+      "sourceUrl": "https://kenney.nl/assets/rpg-audio",
+      "downloadUrl": "https://opengameart.org/sites/default/files/RPGsounds_Kenney.zip",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.04804167,
+        "endSeconds": 0.7474375
+      },
+      "peakOffsetSeconds": 0.02904167,
+      "targetPeakDbfs": -14,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "foley"
+      ]
+    },
+    "voice/male-gasp": {
+      "kind": "recording",
+      "path": "vocals/male-gasp-jawbutch.mp3",
+      "sha256": "5d6b4cf6c9eafebd4ec7d33159629e4895ff0b7ba6ee27f2df9a8fb75223ed87",
+      "title": "Male Gasp 1.wav",
+      "creator": "jawbutch",
+      "sourceUrl": "https://freesound.org/people/jawbutch/sounds/344407/",
+      "downloadUrl": "https://cdn.freesound.org/previews/344/344407_4986214-hq.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.15633333,
+        "endSeconds": 0.56991667
+      },
+      "peakOffsetSeconds": 0.1359375,
+      "targetPeakDbfs": -7,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "reaction"
+      ]
+    },
+    "voice/angry-intake": {
+      "kind": "recording",
+      "path": "vocals/angry-grunt-rocotilos.mp3",
+      "sha256": "dc4aeb456ea1f274bc31e53a29b2b6d53f8190aadd6336dc88b8abbe7a02a8a4",
+      "title": "Angry Grunt",
+      "creator": "Rocotilos",
+      "sourceUrl": "https://freesound.org/people/Rocotilos/sounds/341489/",
+      "downloadUrl": "https://cdn.freesound.org/previews/341/341489_1400623-hq.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.20916667,
+        "endSeconds": 0.47110417
+      },
+      "peakOffsetSeconds": 0.09285417,
+      "targetPeakDbfs": -7,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "reaction"
+      ]
+    },
+    "voice/female-gasp": {
+      "kind": "recording",
+      "path": "vocals/female-gasp-slamaxu.mp3",
+      "sha256": "d49bfabb3789caf19a08fad8bc6df5bce55d5f967d3212e6613f2f4d40654709",
+      "title": "female_gasp.wav",
+      "creator": "slamaxu",
+      "sourceUrl": "https://freesound.org/people/slamaxu/sounds/509883/",
+      "downloadUrl": "https://cdn.freesound.org/previews/509/509883_9238038-hq.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.20870833,
+        "endSeconds": 0.6421875
+      },
+      "peakOffsetSeconds": 0.13072917,
+      "targetPeakDbfs": -7,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "reaction"
+      ]
+    },
+    "voice/effort-01": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-01.flac",
+      "sha256": "f7ed88189eb9861384fbcf984733be9702f0ed8b0d0724fba34928b13289d91a",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0360625,
+        "endSeconds": 0.41822917
+      },
+      "peakOffsetSeconds": 0.15752083,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-02": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-02.flac",
+      "sha256": "ee61bcf8103174a14720f365ef5e701c79f7b4c942ef0df25e5ba6709f3f01f6",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0521875,
+        "endSeconds": 0.35939583
+      },
+      "peakOffsetSeconds": 0.12320833,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-03": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-03.flac",
+      "sha256": "4d150f341ac621a7d8b6d0891d946c6c934964b0b5ef06a00ffe24ddacfea235",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01516667,
+        "endSeconds": 0.41516667
+      },
+      "peakOffsetSeconds": 0.17960417,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-04": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-04.flac",
+      "sha256": "63e100536d4821d6b7c13593c8e74732d47ac39dce1ce7078371f19dda5c392e",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0320625,
+        "endSeconds": 0.4320625
+      },
+      "peakOffsetSeconds": 0.12795833,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-05": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-05.flac",
+      "sha256": "0659fb515b329319cf4f76055a752aeb0e88fb91872814455155492f18808a99",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.038875,
+        "endSeconds": 0.438875
+      },
+      "peakOffsetSeconds": 0.14579167,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-06": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-06.flac",
+      "sha256": "ee3fe078219715be8cc3dadcb60dca12c129e820eb5c901ab5cef1ed0b631bbe",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.06983333,
+        "endSeconds": 0.46983333
+      },
+      "peakOffsetSeconds": 0.08120833,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-07": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-07.flac",
+      "sha256": "4386642c49cb7e93342eb6a55294f59fe1a7a425292eb3a1e54ed6bb2f421776",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.02522917,
+        "endSeconds": 0.42522917
+      },
+      "peakOffsetSeconds": 0.12845833,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-08": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-08.flac",
+      "sha256": "4fea98031db3d9e8b882c7a85d9477f5e874838c4be48c21320b9c594129238f",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.01897917,
+        "endSeconds": 0.41429167
+      },
+      "peakOffsetSeconds": 0.17952083,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-09": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-09.flac",
+      "sha256": "5bcf2acd79e11da4250bda1b49362e2771b91d4cc575f047fa3562f88300a4e5",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.03933333,
+        "endSeconds": 0.43933333
+      },
+      "peakOffsetSeconds": 0.17095833,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-10": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-10.flac",
+      "sha256": "27a55ecc5d6927d4ae338876e9f63675dd3caf439ff0f4b9e7b89004e4a748d2",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0208125,
+        "endSeconds": 0.4208125
+      },
+      "peakOffsetSeconds": 0.13047917,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-11": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-11.flac",
+      "sha256": "4d58e441ddf1aa372ceac29943446d3628c5432d00a10d4a190140f277e98f38",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.02179167,
+        "endSeconds": 0.30445833
+      },
+      "peakOffsetSeconds": 0.08335417,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-12": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-12.flac",
+      "sha256": "11f229f85b22edb730fb59d44f5b878622f0068757502f405000bfc984afa090",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.02295833,
+        "endSeconds": 0.38375
+      },
+      "peakOffsetSeconds": 0.138375,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-13": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-13.flac",
+      "sha256": "90c1f899f80231981ebf9f62143a747b172c91c054c1f13ac32c3dcd5a3120bc",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.06052083,
+        "endSeconds": 0.46052083
+      },
+      "peakOffsetSeconds": 0.1514375,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-14": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-14.flac",
+      "sha256": "fbbc63c46c922689b3b55c62d910f3dff060327d416fc44feeffb27ced126eaa",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.05589583,
+        "endSeconds": 0.45589583
+      },
+      "peakOffsetSeconds": 0.1695,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/effort-15": {
+      "kind": "recording",
+      "path": "vocals/qubodup-efforts/slightscream-15.flac",
+      "sha256": "4185e0b7612ad25cfa3e5858ad00a9b073fab9dac5afa71afd5e970e6a16640b",
+      "title": "15 vocal male strain/hurt/pain/jump sounds",
+      "creator": "qubodup",
+      "sourceUrl": "https://opengameart.org/content/15-vocal-male-strainhurtpainjump-sounds",
+      "downloadUrl": "https://opengameart.org/sites/default/files/slightscreams.7z",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.02170833,
+        "endSeconds": 0.42170833
+      },
+      "peakOffsetSeconds": 0.17985417,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "effort",
+        "reaction"
+      ]
+    },
+    "voice/cry-a": {
+      "kind": "recording",
+      "path": "vocals/sobbing-breathing-jmr.mp3",
+      "sha256": "5cf290347072619e2da20f74b79d94f91eb929b1c7910579ed4b97bf4dc73015",
+      "title": "Sobbing+Breathing.mp3",
+      "creator": "jmr_online",
+      "sourceUrl": "https://freesound.org/people/jmr_online/sounds/196156/",
+      "downloadUrl": "https://cdn.freesound.org/previews/196/196156_3634988-hq.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.36210417,
+        "endSeconds": 2.71210417
+      },
+      "peakOffsetSeconds": 0.0730625,
+      "targetPeakDbfs": -9,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "cry",
+        "reaction"
+      ]
+    },
+    "voice/cry-b": {
+      "kind": "recording",
+      "path": "vocals/sobbing-breathing-jmr.mp3",
+      "sha256": "5cf290347072619e2da20f74b79d94f91eb929b1c7910579ed4b97bf4dc73015",
+      "title": "Sobbing+Breathing.mp3",
+      "creator": "jmr_online",
+      "sourceUrl": "https://freesound.org/people/jmr_online/sounds/196156/",
+      "downloadUrl": "https://cdn.freesound.org/previews/196/196156_3634988-hq.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 6.01210417,
+        "endSeconds": 8.31210417
+      },
+      "peakOffsetSeconds": 0.17891667,
+      "targetPeakDbfs": -10,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "cry",
+        "reaction"
+      ]
+    },
+    "face/blink": {
+      "kind": "recording",
+      "path": "cartoon-blink-firecamel.mp3",
+      "sha256": "b58ca40fd0f4127b69492d86599418a9baa04a85cb17b2cd98dced7c1d3bf068",
+      "title": "Cartoon Blink",
+      "creator": "firecamel",
+      "sourceUrl": "https://freesound.org/people/firecamel/sounds/169349/",
+      "downloadUrl": "https://cdn.freesound.org/previews/169/169349_1938732-hq.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.0,
+        "endSeconds": 0.12
+      },
+      "peakOffsetSeconds": 0.0145,
+      "targetPeakDbfs": -24,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "blink",
+        "accent"
+      ]
+    },
+    "voice/angry-a": {
+      "kind": "recording",
+      "path": "vocals/angry-grunts-lipalearning.mp3",
+      "sha256": "3f28bec0748a0c9b25f7d517b1b14c0d1601244e8908627b794960e9e75c30e0",
+      "title": "male grunt.wav",
+      "creator": "lipalearning",
+      "sourceUrl": "https://freesound.org/people/lipalearning/sounds/427972/",
+      "downloadUrl": "https://cdn.freesound.org/previews/427/427972_4687265-hq.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.56570833,
+        "endSeconds": 0.99570833
+      },
+      "peakOffsetSeconds": 0.11729167,
+      "targetPeakDbfs": -5,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "angry",
+        "reaction"
+      ]
+    },
+    "voice/angry-b": {
+      "kind": "recording",
+      "path": "vocals/angry-grunts-lipalearning.mp3",
+      "sha256": "3f28bec0748a0c9b25f7d517b1b14c0d1601244e8908627b794960e9e75c30e0",
+      "title": "male grunt.wav",
+      "creator": "lipalearning",
+      "sourceUrl": "https://freesound.org/people/lipalearning/sounds/427972/",
+      "downloadUrl": "https://cdn.freesound.org/previews/427/427972_4687265-hq.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 9.18570833,
+        "endSeconds": 9.62570833
+      },
+      "peakOffsetSeconds": 0.1325,
+      "targetPeakDbfs": -5,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "angry",
+        "reaction"
+      ]
+    },
+    "human/gulp": {
+      "kind": "recording",
+      "path": "drink-gulp-zac.mp3",
+      "sha256": "a3395ae51b12082a7fd42883b2d877e9734fe47b9a5c7df3b3fb6b5de597934e",
+      "title": "Drink gulp.wav",
+      "creator": "ZacMakesLOUDNoises",
+      "sourceUrl": "https://freesound.org/people/ZacMakesLOUDNoises/sounds/187951/",
+      "downloadUrl": "https://cdn.freesound.org/previews/187/187951_2656785-hq.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "trim": {
+        "startSeconds": 0.26264583,
+        "endSeconds": 0.61264583
+      },
+      "peakOffsetSeconds": 0.0749375,
+      "targetPeakDbfs": -12,
+      "gainDb": 0,
+      "pitchVariants": [
+        1,
+        0.96,
+        1.04
+      ],
+      "attackSeconds": 0.003,
+      "releaseSeconds": 0.035,
+      "tags": [
+        "drink",
+        "foley"
+      ]
+    },
+    "dsp/whoosh": {
+      "kind": "procedural",
+      "generator": "whoosh",
+      "durationSeconds": 0.3,
+      "creator": "cartoon-3d-short contributors",
+      "license": "MIT",
+      "sourceUrl": "kit/audio/mix.py",
+      "targetPeakDbfs": -18,
+      "gainDb": 0,
+      "pitchVariants": [
+        1
+      ],
+      "tags": [
+        "accent"
+      ]
+    },
+    "dsp/pop": {
+      "kind": "procedural",
+      "generator": "pop",
+      "durationSeconds": 0.17,
+      "creator": "cartoon-3d-short contributors",
+      "license": "MIT",
+      "sourceUrl": "kit/audio/mix.py",
+      "targetPeakDbfs": -22,
+      "gainDb": 0,
+      "pitchVariants": [
+        1
+      ],
+      "tags": [
+        "accent"
+      ]
+    },
+    "dsp/chime": {
+      "kind": "procedural",
+      "generator": "chime",
+      "durationSeconds": 0.7,
+      "creator": "cartoon-3d-short contributors",
+      "license": "MIT",
+      "sourceUrl": "kit/audio/mix.py",
+      "targetPeakDbfs": -20,
+      "gainDb": 0,
+      "pitchVariants": [
+        1
+      ],
+      "tags": [
+        "accent"
+      ]
+    },
+    "dsp/weight": {
+      "kind": "procedural",
+      "generator": "weight",
+      "durationSeconds": 0.28,
+      "creator": "cartoon-3d-short contributors",
+      "license": "MIT",
+      "sourceUrl": "kit/audio/mix.py",
+      "targetPeakDbfs": -17,
+      "gainDb": 0,
+      "pitchVariants": [
+        1
+      ],
+      "tags": [
+        "accent"
+      ]
+    },
+    "dsp/shock": {
+      "kind": "procedural",
+      "generator": "shock",
+      "durationSeconds": 0.3,
+      "creator": "cartoon-3d-short contributors",
+      "license": "MIT",
+      "sourceUrl": "kit/audio/mix.py",
+      "targetPeakDbfs": -18,
+      "gainDb": 0,
+      "pitchVariants": [
+        1
+      ],
+      "tags": [
+        "accent"
+      ]
+    },
+    "dsp/wind": {
+      "kind": "procedural",
+      "generator": "wind",
+      "durationSeconds": 3,
+      "creator": "cartoon-3d-short contributors",
+      "license": "MIT",
+      "sourceUrl": "kit/audio/mix.py",
+      "targetPeakDbfs": -32,
+      "gainDb": 0,
+      "pitchVariants": [
+        1
+      ],
+      "tags": [
+        "ambience"
+      ]
+    },
+    "dsp/water": {
+      "kind": "procedural",
+      "generator": "water",
+      "durationSeconds": 3,
+      "creator": "cartoon-3d-short contributors",
+      "license": "MIT",
+      "sourceUrl": "kit/audio/mix.py",
+      "targetPeakDbfs": -30,
+      "gainDb": 0,
+      "pitchVariants": [
+        1
+      ],
+      "tags": [
+        "ambience"
+      ]
+    },
+    "dsp/fire": {
+      "kind": "procedural",
+      "generator": "fire",
+      "durationSeconds": 3,
+      "creator": "cartoon-3d-short contributors",
+      "license": "MIT",
+      "sourceUrl": "kit/audio/mix.py",
+      "targetPeakDbfs": -32,
+      "gainDb": 0,
+      "pitchVariants": [
+        1
+      ],
+      "tags": [
+        "ambience"
+      ]
+    }
+  },
+  "aliases": {
+    "cloth": [
+      "kenney/cloth1",
+      "kenney/cloth2",
+      "kenney/cloth3",
+      "kenney/cloth4"
+    ],
+    "leather": [
+      "kenney/beltHandle1",
+      "kenney/beltHandle2",
+      "kenney/clothBelt",
+      "kenney/clothBelt2"
+    ],
+    "footstep": [
+      "kenney/footstep00",
+      "kenney/footstep01",
+      "kenney/footstep02",
+      "kenney/footstep03",
+      "kenney/footstep04",
+      "kenney/footstep05",
+      "kenney/footstep06",
+      "kenney/footstep07",
+      "kenney/footstep08",
+      "kenney/footstep09"
+    ],
+    "impact": [
+      "kenney/chop",
+      "kenney/bookClose"
+    ],
+    "wood": [
+      "kenney/bookClose",
+      "kenney/bookPlace1"
+    ],
+    "wood-creak": [
+      "kenney/creak1",
+      "kenney/creak2",
+      "kenney/creak3"
+    ],
+    "metal": [
+      "kenney/metalPot1",
+      "kenney/metalPot2",
+      "kenney/metalPot3"
+    ],
+    "metal-latch": [
+      "kenney/metalLatch"
+    ],
+    "cup": [
+      "kenney/metalPot2"
+    ],
+    "blade": [
+      "kenney/knifeSlice",
+      "kenney/knifeSlice2"
+    ],
+    "body-fall": [
+      "kenney/dropLeather"
+    ],
+    "soil": [
+      "kenney/footstep06",
+      "kenney/footstep08"
+    ],
+    "gulp": [
+      "human/gulp"
+    ],
+    "cry": [
+      "voice/cry-a",
+      "voice/cry-b"
+    ],
+    "gasp": [
+      "voice/male-gasp",
+      "voice/female-gasp"
+    ],
+    "angry": [
+      "voice/angry-a",
+      "voice/angry-b",
+      "voice/angry-intake"
+    ],
+    "effort": [
+      "voice/effort-02",
+      "voice/effort-06",
+      "voice/effort-11"
+    ],
+    "poisoned-grunt": [
+      "voice/effort-06"
+    ],
+    "blink": [
+      "face/blink"
+    ],
+    "whoosh": [
+      "dsp/whoosh"
+    ],
+    "pop": [
+      "dsp/pop"
+    ],
+    "chime": [
+      "dsp/chime"
+    ],
+    "weight": [
+      "dsp/weight"
+    ],
+    "shock": [
+      "dsp/shock"
+    ],
+    "wind": [
+      "dsp/wind"
+    ],
+    "water": [
+      "dsp/water"
+    ],
+    "fire": [
+      "dsp/fire"
+    ]
+  }
+}
